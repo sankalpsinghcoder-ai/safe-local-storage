@@ -1,0 +1,13 @@
+{
+  "name": "@sankalpsinghcoder-ai/safe-local-storage",
+  "version": "1.0.0",
+  "description": "A lightweight, safe wrapper for browser localStorage with JSON parsing and expiration support.",
+  "main": "index.js",
+  "repository": "https://github.com/sankalpsinghcoder-ai/safe-local-storage",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "keywords": ["localstorage", "storage", "utility", "cache"],
+  "author": "Your Name",
+  "license": "MIT"
+}
